@@ -91,17 +91,6 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI Tau
 
 ---
 
-### 💼 Breve Histórico Profissional
-
-* **Iochpe Maxion** – Aprendiz de Desenvolvimento de Sistemas (2024 - 2025)
-  * Desenvolvimento de plataformas web, implementação de sistemas e estruturação de bancos de dados.
-* **UNISAL** – Estagiário de TI (2023 - 2024)
-  * Suporte e organização de laboratórios de informática.
-* **Ascontec** – Auxiliar Administrativo (2023 - 2024)
-  * Gestão de dados e planilhas no Microsoft Excel.
-
----
-
 ### 📊 Estatísticas
 
 <table>
