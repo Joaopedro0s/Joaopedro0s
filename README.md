@@ -10,9 +10,9 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaopedro2007-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4f46e5)](https://www.linkedin.com/in/joaopedro2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4f46e5)](https://www.linkedin.com/in/joaopedro2007)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-jpfonsecaalves2007.com-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4f46e5)](https://portfolio-indol-pi-1l1a9cpnxi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4f46e5)](https://portfolio-indol-pi-1l1a9cpnxi.vercel.app)
 
 </div>
 
