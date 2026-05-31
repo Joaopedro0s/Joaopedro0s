@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=João%20Pedro%20Carvalho&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20·%20Data%20Analyst%20·%20Lorena,%20SP%20🇧🇷&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Banco+de+Dados+%26+SQL;Data+Analyst+em+formação+📊;SENAI+Taubaté+%7C+IBM+Certified)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Banco+de+Dados+%26+SQL;Data+Analyst+em+formação+;SENAI+Taubaté+%7C+IBM+Certified)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
 
 ---
 
-### 🤖 Tecnologias
+### Tecnologias
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joaopedro0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&rank_icon=github" height="160"/>
