@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Web | Banco de Dados | Tecnologia e Análise de Dados`**
 
-Olá! [cite_start]Me chamo João Pedro, sou de Lorena/SP e sou um entusiasta da área de tecnologia[cite: 1, 2, 27]. [cite_start]Tenho experiência prática em desenvolvimento web, banco de dados e lógica de programação por meio de projetos acadêmicos, pessoais e corporativos[cite: 27]. 
+Olá! Me chamo João Pedro, sou de Lorena/SP e sou um entusiasta da área de tecnologia.Tenho experiência prática em desenvolvimento web, banco de dados e lógica de programação por meio de projetos acadêmicos, pessoais e corporativos. 
 
-[cite_start]Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI Taubaté** [cite: 7, 9] [cite_start]e me especializando como **Data Analyst Professional pela IBM**[cite: 5, 6]. [cite_start]Busco constantemente aplicar meus conhecimentos em ambientes colaborativos e dinâmicos para resolver problemas reais através do código[cite: 27, 29].
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI Taubaté** e me especializando como **Data Analyst Professional pela IBM**. Busco constantemente aplicar meus conhecimentos em ambientes colaborativos e dinâmicos para resolver problemas reais através do código.
 
 <p align="left">
     <a href="https://github.com/Joaopedro0s?tab=repositories&sort=stargazers">
