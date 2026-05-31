@@ -1,4 +1,4 @@
-# 👩‍💻 João Pedro Carvalho
+# 💻 João Pedro Carvalho
 
 **`Desenvolvedor Web | Banco de Dados | Tecnologia e Análise de Dados`**
 
@@ -104,9 +104,16 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI Tau
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaopedro0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedro0s&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Joaopedro0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedro0s&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" alt="Top Langs" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
