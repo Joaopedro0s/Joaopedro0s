@@ -1,8 +1,10 @@
-# 💻 Joao Pedro
+# 👩‍💻 João Pedro Carvalho
 
-**`Desenvolvedor em Formação`**
+**`Desenvolvedor Web | Banco de Dados | Tecnologia e Análise de Dados`**
 
-Me chamo Joao Pedro, sou apaixonado por tecnologia, lógica de programação e resolução de problemas através do código. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI**, onde venho aprimorando meus conhecimentos em engenharia de software e segurança. No meu tempo livre, dedico-me ao desenvolvimento de projetos práticos e ao estudo de estruturas de dados.
+Olá! Me chamo João Pedro, sou de Lorena/SP e sou um entusiasta da área de tecnologia. Tenho experiência prática em desenvolvimento web, banco de dados e lógica de programação por meio de projetos acadêmicos, pessoais e corporativos. 
+
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI Taubaté** e me especializando como **Data Analyst Professional pela IBM**. Busco constantemente aplicar meus conhecimentos em ambientes colaborativos e dinâmicos para resolver problemas reais através do código.
 
 <p align="left">
     <a href="https://github.com/Joaopedro0s?tab=repositories&sort=stargazers">
@@ -43,6 +45,22 @@ Me chamo Joao Pedro, sou apaixonado por tecnologia, lógica de programação e r
 />
 <img 
     align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML5"
     title="HTML5" 
     width="30px" 
@@ -69,6 +87,19 @@ Me chamo Joao Pedro, sou apaixonado por tecnologia, lógica de programação e r
 <br/>
 <br/>
 
+**Outras competências:** SQL, Banco de Dados, APIs REST, Análise de Dados e Lógica de Programação.
+
+---
+
+### 💼 Breve Histórico Profissional
+
+* **Iochpe Maxion** – Aprendiz de Desenvolvimento de Sistemas (2024 - 2025)
+  * Desenvolvimento de plataformas web, implementação de sistemas e estruturação de bancos de dados.
+* **UNISAL** – Estagiário de TI (2023 - 2024)
+  * Suporte e organização de laboratórios de informática.
+* **Ascontec** – Auxiliar Administrativo (2023 - 2024)
+  * Gestão de dados e planilhas no Microsoft Excel.
+
 ---
 
 ### 📊 Estatísticas
@@ -76,3 +107,16 @@ Me chamo Joao Pedro, sou apaixonado por tecnologia, lógica de programação e r
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaopedro0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedro0s&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6)
+
+---
+
+### 🌐 Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joaopedro2007" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://jpfonsecaalves2007.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</div>
