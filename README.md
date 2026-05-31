@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Web | Banco de Dados | Tecnologia e Análise de Dados`**
 
-Olá! Me chamo João Pedro, sou de Lorena/SP e sou um entusiasta da área de tecnologia. Tenho experiência prática em desenvolvimento web, banco de dados e lógica de programação por meio de projetos acadêmicos, pessoais e corporativos. 
+Olá! [cite_start]Me chamo João Pedro, sou de Lorena/SP e sou um entusiasta da área de tecnologia[cite: 1, 2, 27]. [cite_start]Tenho experiência prática em desenvolvimento web, banco de dados e lógica de programação por meio de projetos acadêmicos, pessoais e corporativos[cite: 27]. 
 
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI Taubaté** e me especializando como **Data Analyst Professional pela IBM**. Busco constantemente aplicar meus conhecimentos em ambientes colaborativos e dinâmicos para resolver problemas reais através do código.
+[cite_start]Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI Taubaté** [cite: 7, 9] [cite_start]e me especializando como **Data Analyst Professional pela IBM**[cite: 5, 6]. [cite_start]Busco constantemente aplicar meus conhecimentos em ambientes colaborativos e dinâmicos para resolver problemas reais através do código[cite: 27, 29].
 
 <p align="left">
     <a href="https://github.com/Joaopedro0s?tab=repositories&sort=stargazers">
@@ -87,15 +87,15 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI Tau
 <br/>
 <br/>
 
-**Outras competências:** SQL, Banco de Dados, APIs REST, Análise de Dados e Lógica de Programação.
+[cite_start]**Outras competências:** SQL, Banco de Dados, APIs REST, Análise de Dados e Lógica de Programação[cite: 17, 18, 19, 20, 21].
 
 ---
 
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joaopedro0s&theme=tokyonight" height="170" alt="Detalhes do Perfil" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joaopedro0s&theme=tokyonight" height="170" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joaopedro0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joaopedro0s&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" height="180" alt="Top Langs" />
 </div>
 
 ---
