@@ -22,7 +22,7 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
 
 ---
 
-### 🤖 Tecnologias
+### Tecnologias
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joaopedro0s&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6&hide_border=true" height="160"/>
