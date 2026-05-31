@@ -14,7 +14,7 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
   <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://jpfonsecaalves2007.com">
+<a href="[https://jpfonsecaalves2007.com](https://portfolio-indol-pi-1l1a9cpnxi.vercel.app)">
   <img src="https://img.shields.io/badge/Portfólio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
