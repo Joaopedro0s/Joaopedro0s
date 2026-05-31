@@ -11,48 +11,46 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
 <br/>
 
 <a href="https://www.linkedin.com/in/joaopedro2007">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://portfolio-indol-pi-1l1a9cpnxi.vercel.app">
-  <img src="https://img.shields.io/badge/Portfólio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
 </a>
 
 </div>
 
 ---
 
-### Tecnologias
+### 🤖 Tecnologias
 
 <div align="center">
 
+<img alt="AWS" title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+&nbsp;&nbsp;
 <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-&nbsp;&nbsp;
-<img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-&nbsp;&nbsp;
-<img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-&nbsp;&nbsp;
-<img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 &nbsp;&nbsp;
 <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 &nbsp;&nbsp;
 <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 &nbsp;&nbsp;
+<img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+&nbsp;&nbsp;
+<img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+&nbsp;&nbsp;
 <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+&nbsp;&nbsp;
+<img alt="MySQL" title="SQL/MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
 </div>
 
 ---
 
-### Estatísticas
+### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joaopedro0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&rank_icon=github" height="160"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joaopedro0s&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6&hide_border=true" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Joaopedro0s&theme=tokyonight&hide_border=true&locale=pt_BR&card_width=700" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Joaopedro0s&theme=tokyonight&hide_border=true&locale=pt_BR" height="160"/>
 </div>
 
 ---
