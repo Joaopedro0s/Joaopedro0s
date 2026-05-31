@@ -48,8 +48,6 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
   <img src="https://streak-stats.demolab.com?user=Joaopedro0s&theme=tokyonight&hide_border=true&locale=pt_BR" height="160"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Joaopedro0s/Joaopedro0s/output/pacman.svg" alt="Pac-Man"/>
-
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer)
