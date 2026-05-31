@@ -1,3 +1,8 @@
+Aqui está o código completo e atualizado, sem o histórico profissional e com a nova estrutura de imagem para as estatísticas funcionarem perfeitamente lado a lado.
+
+É só copiar tudo, apagar o que está no seu `README.md` atual, colar este código e salvar!
+
+```markdown
 # 💻 João Pedro Carvalho
 
 **`Desenvolvedor Web | Banco de Dados | Tecnologia e Análise de Dados`**
@@ -93,16 +98,10 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI Tau
 
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Joaopedro0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" width="100%">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedro0s&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" alt="Top Langs" width="100%">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joaopedro0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedro0s&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" height="165" alt="Linguagens Mais Usadas" />
+</div>
 
 ---
 
@@ -116,3 +115,5 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI Tau
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </div>
+
+```
