@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=João%20Pedro%20Carvalho&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20·%20Data%20Analyst%20·%20Lorena,%20SP%20🇧🇷&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=João%20Pedro%20Carvalho&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20·%20Data%20Analyst%20·%20Lorena,%20SP&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Banco+de+Dados+%26+SQL;Data+Analyst+em+formação+;SENAI+Taubaté+%7C+IBM+Certified)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Banco+de+Dados+%26+SQL;Data+Analyst+em+formação;SENAI+Taubaté+%7C+IBM+Certified)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,12 +10,12 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
 
 <br/>
 
-<a href="https://www.linkedin.com/in/joaopedro2007">
-  <img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+<a href="https://www.linkedin.com/in/joaopedro2007" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=flat-square&logo=linkedin&logoColor=white&labelColor=6366F1"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://portfolio-indol-pi-1l1a9cpnxi.vercel.app">
-  <img src="https://img.shields.io/badge/-%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
+&nbsp;&nbsp;&nbsp;
+<a href="https://portfolio-indol-pi-1l1a9cpnxi.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-6366F1?style=flat-square&logo=vercel&logoColor=white&labelColor=6366F1"/>
 </a>
 
 </div>
