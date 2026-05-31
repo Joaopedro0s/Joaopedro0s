@@ -87,7 +87,7 @@ Olá! [cite_start]Me chamo João Pedro, sou de Lorena/SP e sou um entusiasta da 
 <br/>
 <br/>
 
-[cite_start]**Outras competências:** SQL, Banco de Dados, APIs REST, Análise de Dados e Lógica de Programação[cite: 17, 18, 19, 20, 21].
+**Outras competências:** SQL, Banco de Dados, APIs REST, Análise de Dados e Lógica de Programação.
 
 ---
 
