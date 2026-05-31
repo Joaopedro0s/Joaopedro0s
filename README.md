@@ -48,7 +48,7 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
   <img src="https://streak-stats.demolab.com?user=Joaopedro0s&theme=tokyonight&hide_border=true&locale=pt_BR" height="160"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Joaopedro0s/Joaopedro0s/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Joaopedro0s/Joaopedro0s/output/pacman.svg" alt="Pac-Man"/>
 
 ---
 
