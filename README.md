@@ -94,8 +94,8 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no SENAI Tau
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joaopedro0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedro0s&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" height="165" alt="Linguagens Mais Usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joaopedro0s&theme=tokyonight" height="170" alt="Detalhes do Perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joaopedro0s&theme=tokyonight" height="170" alt="Linguagens Mais Utilizadas" />
 </div>
 
 ---
