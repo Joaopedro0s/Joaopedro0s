@@ -1,12 +1,12 @@
 <div align="center">
 
-# Olá, eu sou o João Pedro 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=João%20Pedro%20Carvalho&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Web%20·%20Data%20Analyst%20·%20Lorena,%20SP%20🇧🇷&descAlignY=58&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web;Banco+de+Dados+%26+SQL;Data+Analyst+em+formação+📊;SENAI+Taubaté+%7C+IBM+Certified)](https://git.io/typing-svg)
 
 <br/>
 
-Sou de **Lorena, SP 🇧🇷** e tenho experiência em desenvolvimento web, banco de dados e lógica de programação — por meio de projetos acadêmicos, pessoais e corporativos. Atualmente cursando **Análise e Desenvolvimento de Sistemas no SENAI Taubaté** e me certificando como **Data Analyst Professional pela IBM**.
+Tenho experiência em desenvolvimento web, banco de dados e lógica de programação — por meio de projetos acadêmicos, pessoais e corporativos. Atualmente cursando **Análise e Desenvolvimento de Sistemas no SENAI Taubaté** e me certificando como **Data Analyst Professional pela IBM**.
 
 <br/>
 
@@ -57,6 +57,4 @@ Sou de **Lorena, SP 🇧🇷** e tenho experiência em desenvolvimento web, banc
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joaopedro0s&color=6366F1&style=flat-square&label=visitas+ao+perfil"/>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer)
