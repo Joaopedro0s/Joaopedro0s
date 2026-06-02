@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Banco+de+Dados+%26+SQL;Data+Analyst+em+formação;SENAI+Taubaté+%7C+IBM+Certified)](https://git.io/typing-svg)
 
+<br/>
 
 Tenho experiência em desenvolvimento web, banco de dados e lógica de programação — por meio de projetos acadêmicos, pessoais e corporativos. Atualmente cursando **Análise e Desenvolvimento de Sistemas no SENAI Taubaté** e me certificando como **Data Analyst Professional pela IBM**.
 
