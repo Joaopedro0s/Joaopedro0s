@@ -4,11 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Banco+de+Dados+%26+SQL;Data+Analyst+em+formação;SENAI+Taubaté+%7C+IBM+Certified)](https://git.io/typing-svg)
 
-<br/>
 
 Tenho experiência em desenvolvimento web, banco de dados e lógica de programação — por meio de projetos acadêmicos, pessoais e corporativos. Atualmente cursando **Análise e Desenvolvimento de Sistemas no SENAI Taubaté** e me certificando como **Data Analyst Professional pela IBM**.
 
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4f46e5)](https://www.linkedin.com/in/joaopedro2007)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4f46e5)](https://portfolio-indol-pi-1l1a9cpnxi.vercel.app)
