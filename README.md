@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=João%20Pedro%20Carvalho&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20·%20Data%20Analyst%20·%20Lorena,%20SP&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=João%20Pedro%20Carvalho&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Data%20Analyst%20·%20Lorena,%20SP&descAlignY=58&descSize=16)
 
-# Desenvolvedor Full Stack | Data Analyst
+# Full Stack Developer | Data Analyst
 
-Tenho experiência em desenvolvimento web, banco de dados e lógica de programação — por meio de projetos acadêmicos, pessoais e corporativos. Atualmente cursando **Análise e Desenvolvimento de Sistemas no SENAI Taubaté** e me certificando como **Data Analyst Professional pela IBM**.
+I have experience in web development, databases, and programming logic — through academic, personal, and corporate projects. Currently studying **Systems Analysis and Development at SENAI Taubaté** and getting certified as a **Data Analyst Professional by IBM**.
 
 <br/>
 
@@ -15,7 +15,7 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
 
 ---
 
-### Tecnologias
+### Technologies
 
 <div align="center">
 
@@ -39,12 +39,16 @@ Tenho experiência em desenvolvimento web, banco de dados e lógica de programa�
 
 ---
 
-### Estatísticas do GitHub
+### GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedro0s&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedro0s&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Languages&langs_count=6&hide_border=true" height="160"/>
 </div>
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer)
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer&verso=true)
+
+</div>
