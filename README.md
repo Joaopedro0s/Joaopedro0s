@@ -39,14 +39,6 @@ I have experience in web development, databases, and programming logic — throu
 
 ---
 
-### GitHub Statistics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/langs?username=Joaopedro0s&theme=tokyonight&hide_border=true" width="600"/>
-</div>
-
----
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer)
