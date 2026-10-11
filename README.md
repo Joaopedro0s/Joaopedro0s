@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=João%20Pedro%20Carvalho&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Data%20Analyst%20·%20Lorena,%20SP&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=João%20Pedro%20Carvalho&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Data%20Analyst%20,%20SP&descAlignY=58&descSize=16)
 
 # Full Stack Developer | Data Analyst
 
